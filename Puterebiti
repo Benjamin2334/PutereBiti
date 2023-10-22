@@ -1,0 +1,14 @@
+#include <iostream>
+
+using namespace std;
+int n, r;
+int main()
+{
+    cin>>n;
+    r=1<<n;
+
+    cout<<r;
+
+
+    return 0;
+}
